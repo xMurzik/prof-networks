@@ -101,7 +101,7 @@
 <tr>
         <td>3</td>
         <td>Mng</td>
-	  <td>S1: VLAN 3 \n S2: VLAN 3 \n S1:E0/1</td>
+	  <td>S1: VLAN 3 /n S2: VLAN 3 /n S1:E0/1</td>
 </tr>
 
 <tr>
