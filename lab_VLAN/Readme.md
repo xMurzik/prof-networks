@@ -89,5 +89,41 @@
 
 ### VLAN Table:
 
+<table>
+
+<tr>
+	<td>VLAN</td>
+	<td>Name</td>
+	<td>Interface</td>
+</tr>
+
+
+<tr>
+        <td>3</td>
+        <td>Mng</td>
+	  <td>S1: VLAN 3 \n S2: VLAN 3 \n S1:E0/1</td>
+</tr>
+
+<tr>
+        <td>4</td>
+        <td>Operations</td>
+	  <td>S2: E0/0</td>
+</tr>
+
+
+<tr>
+        <td>7</td>
+        <td>ParkingLot</td>
+	  <td>All other</td>
+</tr>
+
+<tr>
+        <td>8</td>
+        <td>Native</td>
+	  <td>N/A</td>
+</tr>
+
+</table>
+
 
 ### Домашнее задание:
